@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\itspa\FirstBitSolutions\Java Module\DSA Module\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1548163313.index
+184066912.index
+1195455883.index
+1905147947.index
