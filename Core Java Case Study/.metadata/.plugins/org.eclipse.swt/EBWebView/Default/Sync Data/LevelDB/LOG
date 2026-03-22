@@ -1,2 +1,3 @@
-2026/02/01-16:43:28.526 24f4 Creating DB C:\Users\itspa\FirstBitSolutions\Java Module\Core Java Case Study\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB since it was missing.
-2026/02/01-16:43:28.540 24f4 Reusing MANIFEST C:\Users\itspa\FirstBitSolutions\Java Module\Core Java Case Study\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/02/01-18:17:22.994 4ad8 Reusing MANIFEST C:\Users\itspa\FirstBitSolutions\Java Module\Core Java Case Study\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/02/01-18:17:22.996 4ad8 Recovering log #3
+2026/02/01-18:17:22.996 4ad8 Reusing old log C:\Users\itspa\FirstBitSolutions\Java Module\Core Java Case Study\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/000003.log 

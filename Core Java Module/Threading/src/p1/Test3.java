@@ -7,7 +7,7 @@ class Worker12 implements Runnable {
 			for (int i = 0; i < str.length(); i++) {
 				System.out.println(" "+str.charAt(i));
 				try {
-					Thread.sleep(1000);;
+					Thread.sleep(1000);
 				} catch (InterruptedException e) {
 					// TODO Auto-generated catch block
 					e.printStackTrace();

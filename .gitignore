@@ -1,0 +1,7 @@
+.metadata/
+*.class
+target/
+build/
+node_modules/
+.vscode/
+.idea/cd "C:\Users\itspa\FirstBitSolutions\Java Module"

@@ -1,2 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="p2.MyThead"/>
+    <fullyQualifiedTypeName name="p2.MyThead1"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.ForkJoinPool"/>
+    <fullyQualifiedTypeName name="p3.Print"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="p2.TcCount"/>
+    <fullyQualifiedTypeName name="p4.Bank"/>
+    <fullyQualifiedTypeName name="p4.PrinterNumber"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="p2.car"/>
+</qualifiedTypeNameHistroy>

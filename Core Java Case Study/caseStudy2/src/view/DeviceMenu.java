@@ -2,7 +2,6 @@ package view;
 
 import java.util.*;
 
-import controller.*;
 import deviceModel.*;
 
 public class DeviceMenu {

@@ -1,3 +1,1 @@
 INDEX VERSION 1.134
-file:/C:/Users/itspa/FirstBitSolutions/Java%20Module/Core%20Java%20Module/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index
-meta_index
